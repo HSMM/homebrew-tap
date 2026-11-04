@@ -1,6 +1,6 @@
 cask "macrosip" do
-  version "26.1.0"
-  sha256 "50d80374e991994f8689db1adfd2c40be5ab3163ab12890a77694d035940e621"
+  version "26.1.1"
+  sha256 "795d1dd61020f2f8cbace6c9dc10d3bcb424364411309b3932a505aab0a0ca79"
 
   url "https://github.com/HSMM/MacroSIP/releases/download/#{version}/MacroSIP-#{version}.dmg"
   name "MacroSIP"
